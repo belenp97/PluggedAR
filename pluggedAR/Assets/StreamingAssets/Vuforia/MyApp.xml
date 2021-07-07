@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7_5_maze" size="100.000000 81.188866" />
+    <ImageTarget name="6_6_maze" size="100.000000 100.000000" />
+    <ImageTarget name="Mandala_41" size="100.000000 78.333336" />
+    <ImageTarget name="Mandala_circular" size="100.000000 78.333336" />
+    <ImageTarget name="Pizza_target" size="100.000000 58.789062" />
+    <ImageTarget name="Desconocida_1" size="100.000000 133.333328" />
+    <ImageTarget name="Desconocida_3" size="100.000000 133.333328" />
+    <ImageTarget name="Desconocida_2" size="100.000000 133.333328" />
+    <ImageTarget name="bombillaOff" size="100.000000 133.333328" />
+    <ImageTarget name="bombillaOn" size="100.000000 133.333328" />
+  </Tracking>
+</QCARConfig>
