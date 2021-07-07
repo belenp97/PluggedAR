@@ -16,6 +16,6 @@ Cada actividad cuenta con una ayuda propia donde se explica cómo desenvolverse 
 
 
 ### GUÍA DE USUARIO
-Para jugar con PluggedAR sólo es necesario descargarse el archivo APK que se encuentra en el directorio ----, disponible para dispositivos Android. Instalalo ¡y a jugar!
+Para jugar con PluggedAR sólo es necesario descargarse el archivo APK que se encuentra en el directorio [principal](PluggedAR_apk.zip) disponible para dispositivos Android. Instalalo ¡y a jugar!
 
 Destacar que en todas las actividades se hace uso de la Realidad Aumentada, y para poder disfrutar de ella y realizar las actividades es necesario poseer unos `marcadores` que se encuentran disponibles en el directorio [Marcadores](https://github.com/belenp97/PluggedAR/tree/main/Marcadores) Basta con imprimirlos y, una vez se seleccione la actividad que se desea jugar, mostrar los marcadores a la cámara del dispositivo siguiendo las instrucciones.
